@@ -8,6 +8,5 @@ Built using PHP to interact with an Oracle Database instance.
 
 _Database login information and course specific material has been removed from the uploaded code._
 
-![Entity-Relationship Diagram][er-diagram]
-
-[er-diagram]: (https://github.com/turtle77777777/music-festival-manager/blob/main/ER%20Diagram.png?raw=true) "Entity-Relationship Diagram"
+### Entity-Relationship Diagram for the Database
+![Entity-Relationship Diagram](./ER%20Diagram.png)
