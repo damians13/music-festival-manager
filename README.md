@@ -6,7 +6,7 @@ Our project provides an interface for the organizers of music festivals to organ
 
 Built using PHP to interact with an Oracle Database instance.
 
-_Database login information and course specific material has been removed from the uploaded code._
-
 ### Entity-Relationship Diagram for the Database
 ![Entity-Relationship Diagram](./ER%20Diagram.png)
+
+_Database login information and course specific material has been removed from the uploaded code._
